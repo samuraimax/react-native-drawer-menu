@@ -28,7 +28,7 @@ const types = {
 };
 
 const MAX = {
-  maskAlpha: 0.5
+  maskAlpha: 1
 };
 
 export default class Drawer extends Component {
